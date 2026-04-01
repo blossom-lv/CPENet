@@ -1,6 +1,6 @@
 # CPENet
 
-This repo is an official implementation of the *(Collaborative Prior-Enhanced RGB-D Salient Object Detection Network for Intelligent IoT Perception Devices)CPENet*.
+This repo is an official implementation of the *Collaborative Prior-Enhanced RGB-D Salient Object Detection Network for Intelligent IoT Perception Devices (CPENet)*.
 
 ## Prerequisites
 
