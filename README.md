@@ -1,6 +1,6 @@
 # CPENet
 
-This repo is an official implementation of the *CPENet*.
+This repo is an official implementation of the *(Collaborative Prior-Enhanced RGB-D Salient Object Detection Network for Intelligent IoT Perception Devices)CPENet*.
 
 ## Prerequisites
 
@@ -25,4 +25,13 @@ python test.py
 
 ### 5. Evaluation
 
-We provide [saliency maps](https://pan.baidu.com/s/1qxotm6L1pAc16QzMHyeMjg?pwd=c7q4) (fetch code: c7q4) of our CPENet on seven datasets.
+We provide [saliency maps](https://pan.baidu.com/s/17mNaTgz7dDZUQ_gv_9RZqg?pwd=2671) (fetch code: 2671) of our CPENet on seven datasets.
+### 6. citation
+
+@article{gao2026collaborative,
+  title={Collaborative Prior-Enhanced RGB-D Salient Object Detection Network for Intelligent IoT Perception Devices},
+  author={Gao, Lina and Chen, Haikun and Zhang, Yonggang and Huang, Yulong},
+  journal={IEEE Internet of Things Journal},
+  year={2026},
+  publisher={IEEE}
+}
